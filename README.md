@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikitaMalakhov
-- 👀 I’m interested in Cybersecurity, Webdev
-- 🌱 I’m currently learning in CMC MSU (ВМК МГУ)
-- 💞️ I’m looking to collaborate on ...
-- 📫 @nm2689
+- 👀 I’m interested in Machine Learning, Mobile Development
+- 📝 I’m currently studying in CMC MSU (ВМК МГУ)
+- 💞️ I’m looking to collaborate on interesting projects and internships
+- 📫 Telegram: @nm2689
 
 <!---
 NikitaMalakhov/NikitaMalakhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
