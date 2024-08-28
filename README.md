@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NikitaMalakhov
-- 👀 I’m interested in Machine Learning, Mobile Development
-- 📝 I’m currently studying in CMC MSU (ВМК МГУ)
-- 💞️ I’m looking to collaborate on interesting projects and internships
+- 👀 I’m interested in ML/Analytics
+- 📝 I’m currently studying at CMC MSU (ВМК МГУ)
 - 📫 Telegram: @nm2689
 
 <!---
